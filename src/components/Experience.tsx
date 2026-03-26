@@ -20,7 +20,7 @@ const experiences = [
   {
     role: "Software Developer",
     company: "Rosa Flora Limited",
-    period: "Mar 2022 – Present",
+    period: "Mar 2022 – Mar 2025",
     description:
       "Develop and maintain internal applications for agricultural operations and supply chain management in Dunnville, ON.",
     achievements: [
