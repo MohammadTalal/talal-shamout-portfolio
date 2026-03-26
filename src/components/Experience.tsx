@@ -6,6 +6,17 @@ import { Building2, Calendar } from "lucide-react";
 
 const experiences = [
   {
+    role: ".NET Full Stack Developer",
+    company: "Expiration Reminder",
+    period: "Apr 2025 – Present",
+    description:
+      "Develop full-stack features for a SaaS platform that helps businesses track and manage expiring documents, licenses, and certifications.",
+    achievements: [
+      "Develop and maintain web applications using Blazor and .NET",
+      "Build and optimize backend services with SQL Server and Azure",
+    ],
+  },
+  {
     role: "Software Developer",
     company: "Rosa Flora Limited",
     period: "Mar 2022 – Present",
