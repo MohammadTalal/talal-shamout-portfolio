@@ -14,6 +14,7 @@ const experiences = [
     achievements: [
       "Develop and maintain web applications using Blazor and .NET",
       "Build and optimize backend services with SQL Server and Azure",
+      "Collaborate with cross-functional teams to deliver new features and improve platform reliability",
     ],
   },
   {
