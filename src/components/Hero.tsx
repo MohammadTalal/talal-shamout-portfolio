@@ -132,7 +132,7 @@ export default function Hero() {
             <div className="absolute -inset-1 bg-gradient-to-r from-accent to-accent-light rounded-full blur-xl opacity-30 animate-pulse" />
             <div className="relative w-72 h-72 md:w-80 md:h-80 rounded-full overflow-hidden border-2 border-card-border shadow-2xl">
               <Image
-                src="/photo.jpg"
+                src="/photo.png"
                 alt="Talal Shamout"
                 fill
                 className="object-cover object-top"
